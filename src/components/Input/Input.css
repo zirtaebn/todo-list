@@ -1,0 +1,52 @@
+.input-area{
+
+    display: flex;
+    margin: 15px 0;
+}
+
+input, button {
+  
+    border: none;
+    font-size: 15px;
+    
+}
+
+input {
+
+    flex: 2;
+    margin-right: 4px;
+    background-color: rgb(83, 80, 80); 
+    padding: 8px 10px;
+    outline: none;
+    color: #fff;
+}
+
+button {
+
+    background-color: rgb(39, 206, 184);
+    padding: 10px 20px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+button:hover {
+
+    background-color: rgb(23, 131, 116);
+}
+
+
+
+@media (max-width: 590px) {
+
+    .input-area {
+
+        flex-direction: column;
+    }
+
+    input {
+
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+}
