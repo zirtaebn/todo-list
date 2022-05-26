@@ -4,6 +4,8 @@ Uma todo list simples e responsiva feita com ReactJS, ainda em construção.
 
 Nessa aplicação, você consegue adicionar tarefas que, por sua vez, são armazenadas localmente. Posteriormente, quero adicionar as funcionalidades de marcar tarefas como completas e removê-las da lista.
 
+Link da aplicação: https://zirtaebn.github.io/todo-list
+
 
 
 ## Getting Started with Create React App
