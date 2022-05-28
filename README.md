@@ -2,7 +2,12 @@
 
 Uma todo list simples e responsiva feita com ReactJS, ainda em construção.
 
-Nessa aplicação, você consegue adicionar tarefas que, por sua vez, são armazenadas localmente. Posteriormente, quero adicionar as funcionalidades de marcar tarefas como completas e removê-las da lista.
+Nessa aplicação, você consegue:
+
+-adicionar tarefas apertando no botão 'adicionar' ou a tecla enter;
+-remover tarefas clicando em 'x';
+-marcar ou desmarcar as tarefas como finalizadas ao clicar no texto da tarefa;
+-as tarefas ficam armazenadas localmente;
 
 
 

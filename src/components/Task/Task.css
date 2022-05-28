@@ -13,10 +13,13 @@ ul li {
     font-size: 17px;
     display: flex;
     justify-content: space-between;
-    /* border-left: 5px solid rgb(39, 206, 184); */
+    
+    
 }
 
-ul li span {
+
+
+.remove {
 
     color: rgb(39, 206, 184);
     cursor: pointer;
