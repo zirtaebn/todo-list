@@ -9,6 +9,8 @@ Nessa aplicação, você consegue:
 -marcar ou desmarcar as tarefas como finalizadas ao clicar no texto da tarefa;
 -as tarefas ficam armazenadas localmente;
 
+Link da aplicação: https://zirtaebn.github.io/todo-list
+
 
 
 ## Getting Started with Create React App
