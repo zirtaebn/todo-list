@@ -4,10 +4,10 @@ Uma todo list simples e responsiva feita com ReactJS, ainda em construção.
 
 Nessa aplicação, você consegue:
 
--adicionar tarefas apertando no botão 'adicionar' ou a tecla enter;
--remover tarefas clicando em 'x';
--marcar ou desmarcar as tarefas como finalizadas ao clicar no texto da tarefa;
--as tarefas ficam armazenadas localmente;
+- adicionar tarefas apertando no botão 'adicionar' ou a tecla enter;
+- remover tarefas clicando em 'x';
+- marcar ou desmarcar as tarefas como finalizadas ao clicar no texto da tarefa;
+- as tarefas ficam armazenadas localmente;
 
 Link da aplicação: https://zirtaebn.github.io/todo-list
 
