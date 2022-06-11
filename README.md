@@ -1,6 +1,6 @@
 # Todo list
 
-Uma todo list simples e responsiva feita com ReactJS, ainda em construção.
+Uma todo list simples e responsiva feita com ReactJS.
 
 Nessa aplicação, você consegue:
 
